@@ -10,6 +10,12 @@
 
 </div>
 
+<p align="center">My other accounts:</p>
+
+<p align="center">
+- Pastebin: https://pastebin.com/u/VallionXD
+</p>
+
 <!--
 **VallionXD/VallionXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
