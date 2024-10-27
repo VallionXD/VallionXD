@@ -10,10 +10,20 @@
 
 </div>
 
-<p align="center">You can also find me on:</p>
+<p align="center"><strong>My Languages:</strong></p>
 
-<p align="center">- GitHub Gist: https://gist.github.com/VallionXD</p>
-<p align="center">- Pastebin: https://pastebin.com/u/VallionXD</p>
+<p align="center">- HTML</p>
+<p align="center">- CSS & Tailwind</p>
+<p align="center">- JavaScript</p>
+<p align="center">- Python</p>
+<p align="center">- Luau <i>(Roblox)</i></p>
+<p align="center">- Batch Script</p>
+<p align="center">- C# / C-Sharp <i>(In Progress)</i></p>
+
+<p align="center"><strong>My Social Media Platforms:</strong></p>
+
+<p align="center">- Discord: @VallionXD</p>
+<p align="center">- Reddit: <a href="https://reddit.com/u/DarkyyReddit">u/DarkyyReddit</a></p>
 
 <!--
 **VallionXD/VallionXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
