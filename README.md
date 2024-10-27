@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi, I'm VallionXD!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">I am a basic web developer with knowledge in HTML, JavaScript & CSS!</p>
+<p align="center">I am a basic web developer with knowledge in HTML, JavaScript & CSS! Check out my friend <a href="https://github.com/waffelz0">Waffelz</a> too!</p>
 
 <br>
 
