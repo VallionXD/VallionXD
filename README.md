@@ -1,47 +1,12 @@
-<h1 align="center"><b>Hi, I'm VallionXD!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hello, I am VallionXD!</b> 👋</h1>
 
-<p align="center">I am a basic web developer with knowledge in HTML, JavaScript & CSS! Check out my friend <a href="https://github.com/waffelz0">waffelz</a> too!</p>
+<p align="center">
+    I am a developer with knowledge in web development, desktop programming, and more! 
+    <br>
+    <i>
+    Check out my friend <b><a href="https://github.com/waffelz0">waffelz</a></b> too!
+    </i>
+</p>
 
-<br>
-
-<div align="center">
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp; ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)&nbsp;  ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp; ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-
-</div>
-
-<p align="center"><strong>My Languages:</strong></p>
-
-<p align="center">- HTML</p>
-<p align="center">- CSS & Tailwind</p>
-<p align="center">- JavaScript</p>
-<p align="center">- Python</p>
-<p align="center">- Luau <i>(Roblox)</i></p>
-<p align="center">- Batch Script</p>
-<p align="center">- C# / C-Sharp <i>(In Progress)</i></p>
-
-<p align="center"><strong>My Social Media Platforms:</strong></p>
-
-<p align="center">- Discord: @VallionXD</p>
-<p align="center">- Reddit: <a href="https://reddit.com/u/DarkyyReddit">u/DarkyyReddit</a></p>
-
-<!--
-**VallionXD/VallionXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2 align="center">My Portfolio | Landing Page</h2>
-
-[![image](https://github.com/VallionXD/Portfolio/assets/151787330/608933fa-5f84-455b-b2f7-7067d8685b15)](https://vallionxd.github.io/Portfolio/)
-
-> The landing page to my github pages site.
+<h3 align="center">Programming Languages</h3>
+<p align="center">HTML | Tailwind | JavaScript | Python | Luau | C# | C++</p>
