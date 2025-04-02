@@ -1,12 +1,13 @@
-<h1 align="center"><b>Hello, I am VallionXD!</b> 👋</h1>
+# Hello, I am VallionXD! 👋
 
-<p align="center">
-    I am a developer with knowledge in web development, desktop programming, and more! 
-    <br>
-    <i>
-    Check out my friend <b><a href="https://github.com/waffelz0">waffelz</a></b> too!
-    </i>
-</p>
+I am a developer with knowledge in web development, desktop programming, and more!
+Check out my friend [waffelz](https://github.com/waffelz0) too!
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">HTML | Tailwind | JavaScript | Python | Luau | C# | C++</p>
+## Programming Languages
+
+- **Web Development**: HTML, Tailwind CSS & JavaScript
+- **Desktop Development**: Python, C# & C++
+- **Shell Scripting**: PowerShell & Bash
+- **Roblox Development**: Luau
+
+More information on ~~[my website](https://vallionxd.github.io/)~~ currently being reworked.
